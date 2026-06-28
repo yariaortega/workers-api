@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "workers-api",
+  "name": "cloudflare-send-mail-api",
   "main": "src/index.ts",
   "compatibility_date": "2025-06-01",
   "observability": {
