@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "workers-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-06-01",
+  "observability": {
+    "enabled": true
+  },
+  "vars": {
+    "COURIER_TEMPLATE_ID": "PHZPJGYWZG4BKHQ9A5DS5XY9NCAP"
+  }
+}
