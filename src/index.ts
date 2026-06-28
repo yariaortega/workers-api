@@ -38,7 +38,7 @@ async function sendMail(request: Request, env: Env): Promise<Response> {
     const result = await sendCourierEmail(
       env.COURIER_TOKEN,
       env.COURIER_TEMPLATE_ID,
-      "peterstilinski111@gmail.com",
+      "yariaortega@gmail.com",
       recipientName,
       source,
     );
